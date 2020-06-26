@@ -3,7 +3,7 @@
 
 <head>
     <title>ATN shop </title>
-    <link rel="stylesheet" type="text/css" href="css/trangchu.css">
+    <link rel="stylesheet"  href="css/trangchu.css">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -59,7 +59,7 @@
                 </form>
                 <ul class="nav navbar-nav navbar-right ml-auto">			
                     <li class="nav-item">
-                        <a href="file:///F:/Assignment%20website/web/insert.html">Insert</a>
+                        <a href="C:\Users\Admin\Documents\NetBeansProjects\PhpProject1\insert.html">Insert</a>
                     </li>
                     <li class="nav-item">
                         <a href="#" data-toggle="dropdown" class="btn btn-primary dropdown-toggle get-started-btn mt-1 mb-1">View</a>
